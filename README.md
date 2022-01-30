@@ -1,1 +1,1 @@
-# see NYCRestGrades for the code 👀
+# see NYCRestGrades.ipynb for the code 👀
